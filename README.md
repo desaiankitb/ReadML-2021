@@ -4,6 +4,9 @@
 		- [Blog](https://kozyrkov.medium.com/)
 		- [Videos YT Playlist](http://bit.ly/mfml_000)
 
+# Intermediate 
+1. [Stanford Vision Lab](http://vision.stanford.edu/teaching.html)
+
 # Advanced
 1. [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/) 
 2. [F8 2019: Facebook: Product Optimization with Adaptive Experimentation](https://www.youtube.com/watch?v=2c8YX0E8Qhw) 
