@@ -4,6 +4,8 @@
 		- [Blog](https://kozyrkov.medium.com/)
 		- [Videos YT Playlist](http://bit.ly/mfml_000)
 2. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+3. [Understanding GPT-3 In 5 Minutes](https://towardsdatascience.com/understanding-gpt-3-in-5-minutes-7fe35c3a1e52)
+	- There are hundreds of articles about GPT-3. Here’s a 5-min compilation of everything there’s to know about it.
 
 
 # Intermediate 
