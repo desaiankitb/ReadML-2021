@@ -10,6 +10,7 @@
 
 # Intermediate 
 1. [Stanford Vision Lab](http://vision.stanford.edu/teaching.html)
+2. [NER vs BERT for person name identification](https://towardsdatascience.com/superior-person-name-recognition-with-pre-built-google-bert-e6215186eae0)
 
 # Advanced
 1. [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/) 
