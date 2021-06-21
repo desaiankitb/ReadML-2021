@@ -21,4 +21,4 @@
 	- Facebook AI Research recently opensourced AugLy - one stop \#python library for \#machinelearning Data Augmentation. It supports Image, Video, Text and Audio with 100-ish augmentations.
 	- Demo: https://lnkd.in/gXh8yst
 	- Announcement: https://lnkd.in/gQqsw4S
-	- Just, pip install augly
+	- Just, `pip install augly`
