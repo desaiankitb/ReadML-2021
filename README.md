@@ -17,4 +17,8 @@
 	- [link](https://ax.dev/) 
 	- Learn how Facebook uses adaptive experimentation, an AI-enabled testing approach, to optimize products, infrastructure, machine learning models, marketing campaigns and more. We'll cover the basic concepts behind adaptive experimentation, where it can be used, and how to use it in conjunction with Facebook's newly released open source packages, Ax and botorch.
 3. [AugLy: A new data augmentation library to help build more robust AI models](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
-	- Data Augmentation can help us with robust model testing for any AI jobs. AugLy helps us to augment the data of any type and in a way help to build the robust models. 
+	- Data Augmentation can help us with robust model testing for any AI jobs. AugLy helps us to augment the data of any type and in a way help to build the robust models. \#deeplearning
+	- Facebook AI Research recently opensourced AugLy - one stop \#python library for \#machinelearning Data Augmentation. It supports Image, Video, Text and Audio with 100-ish augmentations.
+	- Demo: https://lnkd.in/gXh8yst
+	- Announcement: https://lnkd.in/gQqsw4S
+	- Just, pip install augly
