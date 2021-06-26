@@ -6,6 +6,8 @@
 2. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 3. [Understanding GPT-3 In 5 Minutes](https://towardsdatascience.com/understanding-gpt-3-in-5-minutes-7fe35c3a1e52)
 	- There are hundreds of articles about GPT-3. Here’s a 5-min compilation of everything there’s to know about it.
+4. https://www.linkedin.com/posts/kozyrkov_why-your-machine-learning-project-needs-analysts-activity-6812722940333830145-jaaH
+	- Your machine learning project needs analysts too. What happens if you don't include analytics in your machine learning / AI workflow? In a nutshell, your project will take longer. It might even take forever. To understand how analysts can help speed things up for you, dive into this video!
 
 
 # Intermediate 
