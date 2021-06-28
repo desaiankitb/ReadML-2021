@@ -27,3 +27,24 @@
 	- Demo: https://lnkd.in/gXh8yst
 	- Announcement: https://lnkd.in/gQqsw4S
 	- Just, `pip install augly`
+4. EXPLAINABILITY in MACHINE LEARNING EXPLAINED by Prof. Hima Lakkaruju.
+
+	- If you have less than 3 hours to spare & want to learn (almost) everything about state-of-the-art explainable ML, please read on! Below, I am sharing info about 4 of the recent tutorials on explainability presented at #NeurIPS, #AAAI, #FAccT, and #CHIL conferences. (@june'21)
+
+	- NeurIPS 2020: (2 hours 46 mins) TUTORIAL discusses various types of explanation methods, their limitations, evaluation frameworks, applications to domains such as decision making/nlp/vision, and open problems.
+		- Slides and Video: https://explainml-tutorial.github.io/neurips20
+
+	- AAAI 2021: Shorter tutorial at AAAI 2021 (1 hour 32 mins). This one discusses different explanation methods, their limitations, evaluation, and open problems.
+		- Slides and video: https://explainml-tutorial.github.io/aaai21 
+
+	- FAccT 2021: Ethical/practical implications of explainability along with a gentle intro to the topic? "Explainable ML in the Wild" (1 hr 31 mins) might be helpful.
+		- Slides: (Link)[https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit#slide=id.p]
+		- Video: (link)[https://www.youtube.com/watch?v=K6-ujR_67eY]
+
+	- CHIL 2021: 1 hour tutorial on explainability gives a quick overview of various state-of-the-art methods, their limitations, open problems.
+		- Slides: (link)[https://drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view] 
+		- Video: (link)[https://www.chilconference.org/tutorial_T04.html]
+
+	- Full fledged seminar course on explainability in ML at Harvard University. 
+	- Last year's version of the course:  (link)[https://interpretable-ml-class.github.io/]
+
