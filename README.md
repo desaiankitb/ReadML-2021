@@ -38,13 +38,12 @@
 		- Slides and video: https://explainml-tutorial.github.io/aaai21 
 
 	- FAccT 2021: Ethical/practical implications of explainability along with a gentle intro to the topic? "Explainable ML in the Wild" (1 hr 31 mins) might be helpful.
-		- Slides: (Link)[https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit#slide=id.p]
-		- Video: (link)[https://www.youtube.com/watch?v=K6-ujR_67eY]
+		- Slides: [Link](https://docs.google.com/presentation/d/10a0PNKwoV3a1XChzvY-T1mWudtzUIZi3sCMzVwGSYfM/edit#slide=id.p)
+		- Video: [link](https://www.youtube.com/watch?v=K6-ujR_67eY)
 
 	- CHIL 2021: 1 hour tutorial on explainability gives a quick overview of various state-of-the-art methods, their limitations, open problems.
-		- Slides: (link)[https://drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view] 
-		- Video: (link)[https://www.chilconference.org/tutorial_T04.html]
+		- Slides: [link](https://drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view) 
+		- Video: [link](https://www.chilconference.org/tutorial_T04.html)
 
 	- Full fledged seminar course on explainability in ML at Harvard University. 
-	- Last year's version of the course:  (link)[https://interpretable-ml-class.github.io/]
-
+		- Last year's version of the course:  [link](https://interpretable-ml-class.github.io/])
