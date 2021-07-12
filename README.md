@@ -49,9 +49,9 @@
 	- Full fledged seminar course on explainability in ML at Harvard University. 
 		- Last year's version of the course:  [link](https://interpretable-ml-class.github.io/])
 
-5. [DLG4NLP]() Deep Learning on Graphs for Natural Language Processing (DLG4NLP) is a very fast-growing area in recent years.
+5. [DLG4NLP](https://drive.google.com/file/d/1UYZ_dokzTPWR9GRE9we1b57IkkyReIT3/view?usp=sharing) Deep Learning on Graphs for Natural Language Processing (DLG4NLP) is a very fast-growing area in recent years.
 
-	- DLG4NLP tutorial at #sigir2021. You can also learn how to use our Graph4NLP library, which aims to make easy use of GNNs for NLP.
+	- DLG4NLP tutorial presented at #sigir2021. You can also learn how to use our Graph4NLP library, which aims to make easy use of GNNs for NLP.
 
 	- [SIGIR'21 Slides](https://drive.google.com/file/d/1A9Gtzyan4tqFTgmNsNfwOkO4ELR77iNh/view?usp=sharing)
 	- [SIGIR'21 Video](https://drive.google.com/file/d/1UYZ_dokzTPWR9GRE9we1b57IkkyReIT3/view?usp=sharing) 
