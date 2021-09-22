@@ -7,8 +7,9 @@
 	- Life of an AI project - MFML Part 2: Steps 0-5
 		- [Part 2](https://www.youtube.com/watch?v=bk2i5AIz-us)
 	- Life of an AI project - MFML Part 3 
+		- [Part 3](https://www.youtube.com/watch?v=fwK5xKUwQbw)
 	- Life of an AI project - MFML Part 4 
-		To stay tuned for Parts 3-4, don't forget to hit that that star button!
+		To stay tuned for Part-4, don't forget to hit that that star button!
 2. [14 Different Types of Learning in Machine Learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 3. [Understanding GPT-3 In 5 Minutes](https://towardsdatascience.com/understanding-gpt-3-in-5-minutes-7fe35c3a1e52)
 	- There are hundreds of articles about GPT-3. Here’s a 5-min compilation of everything there’s to know about it.
