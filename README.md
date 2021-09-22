@@ -14,8 +14,8 @@
 	- There are hundreds of articles about GPT-3. Here’s a 5-min compilation of everything there’s to know about it.
 4. https://www.youtube.com/watch?v=2fsmSccdNc4 
 	- Your machine learning project needs analysts too. What happens if you don't include analytics in your machine learning / AI workflow? In a nutshell, your project will take longer. It might even take forever. To understand how analysts can help speed things up for you, dive into this video!
-5. (12 (actually-13) Steps to Applied AI)[https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3] 
-6. (How to Use Transformer-based NLP Models)[https://towardsdatascience.com/how-to-use-transformer-based-nlp-models-a42adbc292e5]
+5. [12 (actually-13) Steps to Applied AI](https://medium.com/swlh/12-steps-to-applied-ai-2fdad7fdcdf3)
+6. [How to Use Transformer-based NLP Models](https://towardsdatascience.com/how-to-use-transformer-based-nlp-models-a42adbc292e5)
 7. Practical Deep Learning for Coders [Must-do](https://course.fast.ai/) 
 
 
